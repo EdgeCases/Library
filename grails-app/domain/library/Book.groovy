@@ -4,5 +4,6 @@ class Book {
    
     static constraints = {
     }
-    String name
+    String title
+    String author
 }
